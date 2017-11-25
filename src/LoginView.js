@@ -55,8 +55,7 @@ export default class LoginView extends Component {
 
   render() {
     return (
-      <Image source={require('./image/background.jpg')} style={styles.container}>
-        <Text style={styles.welcome}>Bienvenidos papus</Text>
+      <Image source={require('./image/background.jpeg')} style={styles.container}>
         <Image source={require('./image/logo.png')} style={styles.logo} />
         <Text style={styles.welcome}>{this.state.credentials && this.state.credentials.displayName}</Text>
         <LoginButton
