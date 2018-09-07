@@ -521,6 +521,7 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				17D469A25B4E476E97732A09 /* Resources */,
+				C4AC063A1FC97231009C7060 /* Recovered References */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -553,6 +554,15 @@
 				C4C3F91C1F0087430058B924 /* FBSDKShareKit.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C4AC063A1FC97231009C7060 /* Recovered References */ = {
+			isa = PBXGroup;
+			children = (
+				0561933FB5054AC2BD91FDC4 /* libRNVectorIcons.a */,
+				AE7A97F8C8444F678D9B9135 /* libRCTFBSDK.a */,
+			);
+			name = "Recovered References";
 			sourceTree = "<group>";
 		};
 		C4C3F92D1F00888B0058B924 /* Products */ = {
